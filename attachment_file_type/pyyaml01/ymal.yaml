@@ -1,0 +1,20 @@
+#用户信息
+user:
+  - username: 'zhangsan'
+    password: '123456'
+  - username: 'lisi'
+    password: '123456'
+
+#学校信息
+school:
+  - schoolname: 'primary school'
+  - schoolname: 'junior high school'
+  - schoolname: 'high school'
+  - schoolname: 'university'
+
+#数据库链接信息
+database:
+  host: localhost
+  password: password
+  port: 3306
+  username: root

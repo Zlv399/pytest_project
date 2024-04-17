@@ -1,0 +1,7 @@
+https://www.jb51.net/article/185958.htm
+python requests包的request()函数中的参数-params和data的区别介绍
+
+linux root 账户密码 a123456789
+本机mysql  root 123456 loachost
+
+
